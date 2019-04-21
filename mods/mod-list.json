@@ -134,6 +134,11 @@
     },
     
     {
+      "name": "AtomicArtillery",
+      "enabled": true
+    },
+    
+    {
       "name": "auto-research",
       "enabled": true
     },
