@@ -199,6 +199,11 @@
     },
     
     {
+      "name": "bobores",
+      "enabled": true
+    },
+    
+    {
       "name": "bobplates",
       "enabled": true
     },
